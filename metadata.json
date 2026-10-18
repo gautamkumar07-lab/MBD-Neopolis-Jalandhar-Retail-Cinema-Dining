@@ -1,0 +1,6 @@
+{
+  "name": "MBD Neopolis Jalandhar | Retail, Cinema & Dining",
+  "description": "Comprehensive digital directory, floor guide, Gigabite food court, PVR Gold Class cinema, store contacts, and business intelligence for MBD Neopolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
